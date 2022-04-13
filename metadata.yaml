@@ -1,0 +1,35 @@
+_repo: Emlekbeszedek-1-kotet_67578
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gyulai, Pál
+    alias: Gyulai, Pal
+    birthdate: 1826
+    deathdate: 1909
+    gutenberg_agent_id: '42135'
+    url: http://www.gutenberg.org/2009/agents/42135
+    wikipedia: https://hu.wikipedia.org/wiki/Gyulai_P%C3%A1l_%28irodalomt%C3%B6rt%C3%A9n%C3%A9sz%29
+description: ''
+gutenberg_issued: '2022-03-07'
+identifiers:
+  gutenberg: '67578'
+language: hu
+pgterms:marc905: 20220303042401gyulai
+pgterms:marc906: '1914'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Internet
+  Archive
+publication_note: Hungary :Franklin,1914.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Speeches, addresses, etc., Hungarian'
+- GITenberg
+tableOfContents: Előszó -- Kazinczy Ferencz -- Pákh Albert -- B. Eötvös József --
+  Toldy Ferencz -- Kriza János -- Szigligeti Ede -- B. Kemény Zsigmond -- Csengery
+  Antal -- Arany János -- Kölcsey Ferencz -- Vörösmarty Mihály -- Gróf Széchenyi István
+  utolsó évei -- Gróf Széchenyi István mint író -- B. Jósika Miklós.
+title: Emlékbeszédek (1. kötet)
+url: http://www.gutenberg.org/ebooks/67578
